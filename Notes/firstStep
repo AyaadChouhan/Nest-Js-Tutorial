@@ -1,0 +1,5 @@
+
+
+Nest is able to work with any Node HTTP framework once an adapter is created. There are two HTTP platforms supported out-of-the-box: (express) and (fastify). You can choose the one that best suits your needs.
+
+Whichever platform is used, it exposes its own application interface. These are seen respectively as NestExpressApplication and NestFastifyApplication.
